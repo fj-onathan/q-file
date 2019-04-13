@@ -1,7 +1,7 @@
  ## 📝 Q-File! 
  
 Query File is basicaly a lightweight PHP class for queries (retrieve/select/where/order) custom data from a flat file.
-File is pretty to learn, not like JSON, or ARRAY, or SQL, all level of developers can learn easy that typo of files.
+File is pretty to learn, not like JSON, or ARRAY, or SQL, all level of developers can learn easy that type of files.
 
 ## Installation
 
